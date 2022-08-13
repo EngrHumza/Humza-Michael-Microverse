@@ -82,9 +82,26 @@ nav ul{
     text-align: center;
 }
 
+.add-to-cart{
+    width: 100%;
+    display: flex;
+    padding: 80px 130px;
+    justify-content: space-between;
+}
 
+footer{
+    width: 100%;
+    padding: 40px 130px;
+}
 
+footer ul{
+    display: flex;
+    justify-content: flex-end;
+}
 
+li{
+    padding: 0px 10px;
+}
 
 
 
