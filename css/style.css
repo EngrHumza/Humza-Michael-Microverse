@@ -60,8 +60,27 @@ nav ul{
 }
 
 
+/* Feature lis section */
+.feature-list-wapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 375px;
+}
+.feature-list {
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.premium{
+    width: 80%;
+}
 
-
+.video{
+    text-align: center;
+}
 
 
 
